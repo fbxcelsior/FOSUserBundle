@@ -23,7 +23,7 @@
     "require": {
         "php": "^5.5.9 || ^7.0",
         "doctrine/common": "^3.0",
-        "doctrine/doctrine-bundle": "2.4.1",
+        "doctrine/doctrine-bundle": "2.3.2",
         "doctrine/persistence": "^2.0",
         "paragonie/random_compat": "^1 || ^2 || ^9",
         "symfony/form": "^2.8 || ^3.0 || ^4.0",
